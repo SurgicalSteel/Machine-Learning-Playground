@@ -1,0 +1,34 @@
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\housing.csv
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\California House Value Prediction.exe
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.csprojAssemblyReference.cache
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.AssemblyInfoInputs.cache
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.AssemblyInfo.cs
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\California House Value Prediction.deps.json
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\California House Value Prediction.runtimeconfig.json
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\California House Value Prediction.runtimeconfig.dev.json
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\California House Value Prediction.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\California House Value Prediction.pdb
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libLdaNative.so
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libLdaNative.so
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.csproj.CoreCompileInputs.cache
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.csproj.CopyComplete
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.dll
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.pdb
+D:\development\Machine Learning\California House Value Prediction\California House Value Prediction\obj\Debug\netcoreapp3.1\California House Value Prediction.genruntimeconfig.cache
